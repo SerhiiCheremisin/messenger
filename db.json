@@ -1,0 +1,78 @@
+{
+  "users": [
+    {
+      "name": "Bot",
+      "id": "1"
+    },
+    {
+      "name": "Some dude",
+      "id": 2
+    }
+  ],
+  "messages": [
+    {
+      "messageFrom": "Testname",
+      "messageTo": "Bot",
+      "message": "esfesf",
+      "date": "25.03.2022",
+      "time": "12:35:24",
+      "id": "Testname25.03.202212:35:24"
+    },
+    {
+      "id": "Testname25.03.202212:37:41",
+      "date": "25.03.2022",
+      "messageFrom": "Testname",
+      "messageTo": "Bot",
+      "message": "erg (edited) twice",
+      "time": "12:37:41"
+    },
+    {
+      "messageFrom": "Bot",
+      "messageTo": "Testname",
+      "message": "Test message from bot",
+      "date": "any day",
+      "time": "any time",
+      "id": "666"
+    },
+    {
+      "messageFrom": "Testname",
+      "messageTo": "Some dude",
+      "message": "My test message to some dude",
+      "date": "29.03.2022",
+      "time": "11:23:14",
+      "id": "Testname29.03.202211:23:14"
+    },
+    {
+      "messageFrom": "Testname",
+      "messageTo": "Bot",
+      "message": "dsfef",
+      "date": "30.03.2022",
+      "time": "14:02:41",
+      "id": "Testname30.03.202214:02:41"
+    },
+    {
+      "messageFrom": "Testname",
+      "messageTo": "Bot",
+      "message": "grdgrfgf",
+      "date": "09.04.2022",
+      "time": "07:39:06",
+      "id": "Testname09.04.202207:39:06"
+    },
+    {
+      "messageFrom": "Testname",
+      "messageTo": "Bot",
+      "message": "fefsef",
+      "date": "09.04.2022",
+      "time": "08:22:20",
+      "id": "Testname09.04.202208:22:20"
+    },
+    {
+      "messageFrom": "Testname",
+      "messageTo": "Bot",
+      "message": "sad",
+      "date": "09.04.2022",
+      "time": "09:19:07",
+      "id": "Testname09.04.202209:19:07"
+    }
+  ]
+}
